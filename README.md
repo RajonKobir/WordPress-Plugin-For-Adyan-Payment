@@ -1,4 +1,4 @@
-# favorite_places
+# Introduction
 
 Adyan Payment for WooCommerce
 
